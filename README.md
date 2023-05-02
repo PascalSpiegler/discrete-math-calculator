@@ -1,4 +1,4 @@
-# discrete-calculator
+# discrete-math-calculator
 
 program1() solves any propositional logic sentence and shows the steps required to solve the problem.
 
